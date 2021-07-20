@@ -1,2 +1,2 @@
 # start
-how i will write
+Instruction to write
